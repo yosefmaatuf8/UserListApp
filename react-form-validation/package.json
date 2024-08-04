@@ -1,0 +1,9 @@
+{
+  "name": "react-form-validation",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "formik": "^2.4.6",
+    "yup": "^1.4.0"
+  }
+}
